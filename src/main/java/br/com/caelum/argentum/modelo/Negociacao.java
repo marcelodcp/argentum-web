@@ -7,7 +7,7 @@ public final class Negociacao implements Serializable{
 
 	private static final long serialVersionUID = 1L;
 
-	private final double preco;
+	private final double preco
 	private final int quantidade;
 	private final Calendar data;
 
